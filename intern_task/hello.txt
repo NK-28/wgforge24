@@ -1,1 +1,13 @@
-Hello, Interns
+Hello, Interns! 👋
+
+Welcome to your Git Challenge! 🚀
+This is no ordinary repository. 🕵️‍♂️ Hidden within these commits is a secret key 🔑 waiting to be found.
+
+Your task:
+1. Explore the repository's history. 🗂️
+2. Use your Git skills to uncover the hidden key. 🕵️‍♀️
+3. Enter the key to complete the challenge! ✅
+
+Tip: Think outside the box, and remember... not everything is what it seems. 😉
+
+Good luck, and may the Git force be with you! ✨
